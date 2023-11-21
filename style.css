@@ -1,0 +1,37 @@
+
+section{
+    max-width: 600px;
+    margin: 300px auto;
+    background-color: rgb(71, 212, 194);
+    border-radius: 10px;
+}
+
+.titulo{
+    margin-top: 0 auto;
+    text-align: center;
+}
+
+label{
+    color: black;
+} 
+
+button{
+    background-color: gainsboro;
+    border-radius: 5px;
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 25px ;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    color: white;
+}
+
+input{
+    border-style: nome;
+    outline-color: rgb(0, 247, 255);
+    margin: 5px 0;
+}
